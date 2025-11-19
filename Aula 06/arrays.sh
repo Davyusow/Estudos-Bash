@@ -6,3 +6,5 @@ echo "Todas as cores que eu gosto são ${cores[@]}!" # o @ ou * em colchetes imp
 HISTTIMEFORMAT="%d-%m-%Y %T $ " #Exemplo de variável de ambiente que altera uma configuração de um comando!
 PS1="\u@\h \w\$ " # Muda a aparência do prompt do bash!
 export EDITOR=vim #cria e exporta a variável para as variáveis de ambiente
+alias hello='echo "Beltrano esteve aqui!"' #alias da um apelido para um comando maior
+# caso escreva 'hello' no bash o comando definido será executado

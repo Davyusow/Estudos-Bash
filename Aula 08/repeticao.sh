@@ -21,7 +21,7 @@ do
 done
 
 
-for IMPAR in $(seq 2 2 10)
+for PAR in $(seq 2 2 10)
 do
-    echo $IMPAR
+    echo "$PAR"
 done

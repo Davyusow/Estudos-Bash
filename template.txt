@@ -6,4 +6,4 @@ category
 educated
 boondoggle
 vindication
-chilidog
+Chilidog

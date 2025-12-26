@@ -1,0 +1,6 @@
+# agendamentos recorrentes com crontab
+19 10 26 * Fri notify-send "Teste gostoso" #toda sextafeira e todo dia 26 ás 19:10
+
+# ordem: Minuto Hora Dia do Mês dia da semana comando
+
+18 19 * * Fri ~/Projetos/Bash/Estudos-Bash/Aula\ 10/agendamento.sh

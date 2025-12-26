@@ -1,0 +1,15 @@
+bash
+RedHat
+systemd
+init
+kernel
+tty6
+passwd
+shadow
+mount
+lsmod
+12345
+grep
+cron
+fstab
+404

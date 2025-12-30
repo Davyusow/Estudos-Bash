@@ -27,3 +27,8 @@ sudo systemctl disable --now logrotate.timer
 
 # imprime o status do temporizador
 sudo systemctl status logrotate.timer
+
+# exemplo prático de uso com o docker
+sudo systemctl enable --now docker
+sudo systemctl status docker && docker ps
+sudo systemctl stop docker
